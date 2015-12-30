@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+img/*.dat
+img/*.list
+img/*.img
+output
